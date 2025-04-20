@@ -52,8 +52,8 @@ The dataset includes:
 
 
 ## 📝 Author
-Thu Nguyen
-This project was developed as part of the Machine learning course at Ghent University.
+- **Author**: Thu Nguyen.
+- **Disclaimer**: This project was developed as part of the Machine learning course at Ghent University.
 
 
 
