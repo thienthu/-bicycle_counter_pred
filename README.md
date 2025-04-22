@@ -48,7 +48,7 @@ The dataset includes:
 
 - Historical bicycle counts (target variable)
 - Sample weather data (temperature, wind, rain, etc.)
-- [Additional weather data](#) (sourced externally)
+- Additional weather data (sourced externally)
 
 
 ## 📝 Author
